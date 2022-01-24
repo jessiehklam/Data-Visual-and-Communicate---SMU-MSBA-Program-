@@ -14,7 +14,9 @@
 ![](https://i.imgur.com/vMPeHCd.png)
 ### Multiple Charts 
 <img src="https://i.imgur.com/cneAYU1.png" width="600" />
+
 ### Area Chart
 ![](https://i.imgur.com/eXzwYHN.png)
+
 ### Pie Chart & Donut Chart
 ![](https://i.imgur.com/CYcFUFY.png)![](https://i.imgur.com/VVuSvCO.png) 
