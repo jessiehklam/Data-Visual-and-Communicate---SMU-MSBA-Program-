@@ -5,7 +5,7 @@
 
 ###### tags: `SMU`,`Tableau`,`Alteryx`,`Data`,`Visualization`,`Analysis`
 :::info
-:bulb: **Some part of the dashboard are shown below.**。
+:bulb: **Some part of the dashboard are shown below.**
 :::
 #
 ### Line chart and Box and Wisker
