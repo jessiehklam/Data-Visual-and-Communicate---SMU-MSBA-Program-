@@ -18,5 +18,10 @@
 ### Area Chart
 ![](https://i.imgur.com/eXzwYHN.png)
 
-### Pie Chart & Donut Chart
-![](https://i.imgur.com/CYcFUFY.png)![](https://i.imgur.com/VVuSvCO.png) 
+### Pie Chart
+<img src="https://i.imgur.com/CYcFUFY.png" width="450" />
+
+### Donut Chart
+<img src="https://i.imgur.com/VVuSvCO.png" width="450" />
+
+
