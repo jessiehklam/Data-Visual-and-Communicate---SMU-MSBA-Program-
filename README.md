@@ -4,9 +4,9 @@
 #### •	Presented effective leading indicators for 4 categories of electricity transaction
 
 ###### tags: `SMU`,`Tableau`,`Alteryx`,`Data`,`Visualization`,`Analysis`
-
-#### Some part of the dashboard are shown below.
-# 
+:::info
+:bulb: **Some part of the dashboard are shown below.**。
+:::
 #
 ### Line chart and Box and Wisker
 ![](https://i.imgur.com/PrJAcsD.png)
